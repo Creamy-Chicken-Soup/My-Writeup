@@ -76,7 +76,7 @@ f.close()
 
 ```
 
-![](1.PNG)
+![](https://github.com/Creamy-Chicken-Soup/My-Writeup/blob/main/CVE%20N%5CA%20-%20BOF/images/1.PNG)
 
 
 
